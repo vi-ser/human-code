@@ -4,19 +4,27 @@ PREPARARE LASAGNE ALLA BOLOGNESE
 
 - Mettere il latte in una pentola
 - Accendere il fornello e posizionare la pentola sul fuoco
+
 - FINCHÉ il latte non bolle
 	– Tenere la pentola sul fuoco
+
 - Spegnere il fuoco
 - Mettere il burro in una pentola piccola
 - Posizionare la pentola piccola sul fuoco
+
 - FINCHÉ il burro non si scioglie
     - Tenere la pentola sul fuoco
+
 - Unire la farina al burro
+
 - FINCHÉ gli ingredienti non si abbronzano
     - Tenere la pentola sul fuoco
+
 - Aggiungere burro e farina al latte caldo
+
 - FINCHÉ gli ingredienti non si addensano
     - Tenere la pentola sul fuoco e mescolare
+
 - Spegnere il fuoco
 
 
@@ -24,36 +32,47 @@ PREPARARE LASAGNE ALLA BOLOGNESE
 
 - FINCHÉ non si hanno tutti gli ingredienti necessari
 	– Procurarsi gli ingredienti
+
 - Tagliare sedano, carota e cipolla
 - Prendere una pentola
 - Accendere il fornello e posizionare la pentola sul fuoco
 - Aggiungere un filo d’olio
 - Aggiungere sedano, carota e cipolla
+
 - FINCHÉ il soffritto non è pronto
 	– Tenere la pentola sul fuoco
+
 - Aggiungere il macinato e gli odori
+
 - FINCHÉ il macinato non diventa scuro
 	– Continuare a cuocere
+
 - Aggiungere sugo di pomodoro
+
 - FINCHÉ il sugo non è pronto
 	– Continuare a cuocere
 	– Sollevare il coperchio per controllare
+	
 - Spegnere il fuoco
 
 
 // Composizione finale
 
-- SE la besciamella e il sugo sono pronti
+? SE la besciamella e il sugo sono pronti
 	– Procedere
-- ALTRIMENTI
+
+: ALTRIMENTI
 	– Attendere
+
 - FINCHÉ la teglia non è piena
 	– Versare due mestoli di ragù e due di besciamella
 	– Spargere il composto lungo la teglia
 	– Posizionare uno strato di pasta per lasagne
+
 - Aggiungere una spolverata di parmigiano in cima
 - Accendere il forno a 180°C
 - Inserire la teglia nel forno
+
 - FINCHÉ le lasagne non sono pronte
 	– Tenere la teglia nel forno ed attendere
 	– Aprire il forno per controllare la cottura
